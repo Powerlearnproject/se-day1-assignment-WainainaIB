@@ -178,3 +178,11 @@ Greater Flexibility: A prompt engineer can design prompts that use domain-neutra
 
 Improved Developer Control: Effective prompt engineering enables developers to shape user interactions with the AI by embedding intent, context, and clarity into prompts, thus guiding the AI’s responses more accurately
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: “Write a story.”
+
+Improved Prompt: “Write a 500-word short story about a young astronaut who gets stranded on a distant planet and must find a way to communicate with Earth using only limited resources.”
+
+
+Clarity: The improved prompt defines the type of story (a short story) and provides context (a young astronaut) instead of leaving it open-ended.
+Specific Details: Including details about the plot (stranded on a distant planet) and the challenge (finding a way to communicate with Earth) gives clear direction to shape the narrative.
+Concise: The additional context enhances understanding without overloading the prompt, ensuring the story remains focused and engaging.
